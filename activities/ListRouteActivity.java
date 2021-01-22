@@ -248,9 +248,6 @@ public class ListRouteActivity extends AppCompatActivity implements RouteAdapter
 
                     e.printStackTrace();
                 }
-
-
-
             }
         }, new Response.ErrorListener() {
             @Override
