@@ -1,0 +1,18 @@
+#lititle {
+	
+	margin-left: 13px;
+}
+
+#sectionimg {
+	
+	height: 200px;
+	width: 150px;
+	transform: rotate(90deg);
+	float: left;
+	margin: 5px 0px 10px 17px;
+}
+
+.btn {
+	
+	background-color: #009999;
+}
