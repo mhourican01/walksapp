@@ -1,3 +1,5 @@
-These are the Java files behind the app.
-They have been extracted from the project-as-a-whole, with API keys and server URLs removed.
+In the 'app' folder, you will find the Java files behind the app.
+In the 'api' folder, you will find the PHP files that enable the app to communicate with a MySQL DB.
+In the 'web' folder, you will find the HTML code behind the companion website to the app.
+API keys and server URLs have been removed, and the Java files have been extracted from the Android project-as-a-whole.
 Therefore, while they offer no functionality in isolation, they offer plenty to read!
